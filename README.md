@@ -4,6 +4,6 @@
 
 🔨 Hecho con HTML5, BOOTSTRAP Y ReactJS
 
-🔧 Poryecto creado con NodeJS. Se uso Axio para el consumo de API.
+🔧 Proyecto creado con NodeJS. Se usó Axio para el consumo de API.  
 
 🚀 Deploy: https://buscador-de-imagenes-liard.vercel.app/
